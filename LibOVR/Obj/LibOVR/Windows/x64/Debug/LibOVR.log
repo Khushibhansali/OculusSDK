@@ -1,0 +1,4 @@
+﻿  OVR_CAPIShim.c
+  OVR_CAPI_Util.cpp
+  OVR_StereoProjection.cpp
+  LibOVR.vcxproj -> C:\Users\kbhansal\Downloads\oculusSDK2023\LibOVR\Lib\Windows\x64\Debug\LibOVR.lib
